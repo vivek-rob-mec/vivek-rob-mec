@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vivek saroj (vivek-rob-mec)
-- 👀 I’m interested in the mechatronic subject and Automation.
+- 👀 I’m interested in the mechatronic subject, Artificial Intelligence(AI), and automation.
 - 🌱 I’m currently learning Data Science, Robot Operating Systems, and Raspberry PI
 - 📫 How to reach me https://www.linkedin.com/in/vivek-saroj-152b4719a/
 <img src="https://github-readme-stats.vercel.app/api?username=vivek-rob-mec&&show_icons=true&&theme=react">
