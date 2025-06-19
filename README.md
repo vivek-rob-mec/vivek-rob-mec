@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vivek saroj (vivek-rob-mec)
-- 👀 I’m interested in the mechatronic subject, Artificial Intelligence(AI), and automation.
+- 👀 Interested in the mechatronic subject, Artificial Intelligence(AI), and automation.
 - 🌱 Data Scientist, Cloud computing & DevOps, Robot Operating Systems.
 - 📫 How to reach me https://www.linkedin.com/in/vivek-saroj-152b4719a/
 <!---
