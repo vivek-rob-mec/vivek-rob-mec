@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivek saroj (vivek-rob-mec)
 - 👀 I’m interested in the mechatronic subject, Artificial Intelligence(AI), and automation.
-- 🌱 I’m currently learning Data Science, Robot Operating Systems, and Raspberry PI
+- 🌱 Data Scientist, Cloud computing & DevOps, Robot Operating Systems.
 - 📫 How to reach me https://www.linkedin.com/in/vivek-saroj-152b4719a/
 <!---
 vivek-rob-mec/vivek-rob-mec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
