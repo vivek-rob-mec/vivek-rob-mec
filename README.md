@@ -10,7 +10,9 @@ I am focused on automating workflows and ensuring the reliability of production 
 ---
 
 * **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/vivek-saroj-152b4719a/)
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivek-rob-mec&show_icons=true&theme=radical)
+*  **Email:** viveksaroj098@gmail.com
+
+![Vivek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivek-rob-mec&theme=radical)
 <!---
 vivek-rob-mec/vivek-rob-mec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
