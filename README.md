@@ -12,6 +12,8 @@ I am focused on automating workflows and ensuring the reliability of production 
 * **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/vivek-saroj-152b4719a/)
 *  **Email:** viveksaroj098@gmail.com
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=DevOps+Engineer;Automation+Expert;Kubernetes+%26+Cloud)](https://git.io/typing-svg)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=vivek-rob-mec&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 vivek-rob-mec/vivek-rob-mec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
