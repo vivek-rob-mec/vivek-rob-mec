@@ -2,21 +2,22 @@
 
 **DevOps Engineer | Cloud Infrastructure | Kubernetes | Platform Automation**
 
-DevOps Engineer focused on building, automating, and operating reliable infrastructure across cloud, containerized, and Linux environments.
+DevOps Engineer focused on building, automating, and operating reliable cloud,
+containerized, and Linux infrastructure.
 
-Experienced with **AWS, Kubernetes, Terraform, Ansible, Jenkins, Docker, Linux, GitOps, CI/CD, observability, networking, and infrastructure automation**.
+Hands-on experience with **AWS, Kubernetes, Terraform, Ansible, Jenkins, Docker,
+Linux, CI/CD, GitOps, observability, networking, and infrastructure automation.**
 
 ## Core Technologies
 
-**Cloud:** AWS, EC2, S3, CloudFront, VPC, IAM, ALB/NLB
-**Containers:** Docker, Kubernetes, Containerd
-**Infrastructure as Code:** Terraform, Ansible
-**CI/CD & GitOps:** Jenkins, GitHub Actions, Argo CD
-**Observability:** Prometheus, Grafana, Logging & Monitoring
-**DevSecOps:** SonarQube, Semgrep, Trivy, SAST, DAST, SCA
-**Web & Networking:** Nginx, DNS, TLS/SSL, TCP/IP, Load Balancing
-**Systems:** Linux, Ubuntu, systemd, Bash
-**Automation:** Python, Bash
+**Cloud:** AWS  
+**Containers & Orchestration:** Docker, Kubernetes, containerd  
+**Infrastructure as Code:** Terraform, Ansible  
+**CI/CD & GitOps:** Jenkins, GitHub Actions, Argo CD  
+**Observability:** Prometheus, Grafana, Logging & Monitoring  
+**DevSecOps:** SonarQube, Semgrep, Trivy, SAST, DAST, SCA  
+**Web & Networking:** Nginx, DNS, TLS/SSL, TCP/IP, Load Balancing  
+**Systems & Automation:** Linux, Ubuntu, systemd, Bash, Python
 
 ## Engineering Experience
 
