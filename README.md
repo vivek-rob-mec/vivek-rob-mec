@@ -1,21 +1,39 @@
-# Hi, I'm Vivek Saroj (vivek-rob-mec) 👋
+# Vivek Saroj
 
-**DevOps Engineer | Data Science | Automation**
+**DevOps Engineer | Cloud Infrastructure | Kubernetes | Automation**
 
-I specialize in **Cloud Computing, DevOps, and Data Science**.
-Coming from a **Mechatronics** background, I combine engineering logic with modern cloud technologies to solve complex deployment and data challenges.
+DevOps Engineer focused on building, automating, and maintaining reliable, scalable, and secure infrastructure.
 
-I am focused on automating workflows and ensuring the reliability of production environments for both web and data applications.
+My work centers around **cloud infrastructure, CI/CD, container orchestration, Infrastructure as Code, automation, monitoring, and production operations**.
 
----
+## Core Technologies
 
-* **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/vivek-saroj-152b4719a/)
-*  **Email:** viveksaroj098@gmail.com
+* **Cloud:** AWS
+* **Containers & Orchestration:** Docker, Kubernetes
+* **Infrastructure as Code:** Terraform, Ansible
+* **CI/CD:** Jenkins, GitHub Actions
+* **GitOps:** Argo CD
+* **Web & Proxy:** Nginx
+* **Operating Systems:** Linux
+* **Observability:** Prometheus, Grafana
+* **Security:** DevSecOps, SAST, DAST, SCA
+* **Version Control:** Git, GitHub
+* **Scripting & Automation:** Bash, Python
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=DevOps+Engineer;Automation+Expert;Kubernetes+%26+Cloud)](https://git.io/typing-svg)
+## Areas of Focus
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vivek-rob-mec&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-<!---
-vivek-rob-mec/vivek-rob-mec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Cloud Infrastructure & Architecture
+* Kubernetes Administration
+* CI/CD Pipeline Engineering
+* Infrastructure as Code
+* Configuration Management
+* DevSecOps
+* GitOps
+* Monitoring & Observability
+* Infrastructure Automation
+* Production Reliability
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/vivek-saroj-152b4719a/)
+**Email:** [viveksaroj098@gmail.com](mailto:viveksaroj098@gmail.com)
