@@ -80,7 +80,6 @@ Built and configured infrastructure environments involving:
 * **Linux Enterprise Infrastructure Lab** - Samba AD, LDAP, Kerberos, SNMPv3
 * **DevSecOps Automation** - SAST, DAST, SCA, Trivy, Semgrep
 
-> Repository links will be added as projects are organized and documented.
 
 ## Connect
 
