@@ -74,11 +74,11 @@ Built and configured infrastructure environments involving:
 
 ## Featured Projects
 
-* **DevOps CI/CD Platform** - Jenkins, Docker, AWS, Terraform, Ansible
-* **Kubernetes Operations Lab** - Kubernetes, Containerd, Networking, GitOps
-* **AWS Infrastructure as Code** - Terraform, AWS, Ansible
-* **Linux Enterprise Infrastructure Lab** - Samba AD, LDAP, Kerberos, SNMPv3
-* **DevSecOps Automation** - SAST, DAST, SCA, Trivy, Semgrep
+- **DevOps CI/CD Platform** — Jenkins, Docker, AWS, Terraform, Ansible
+- **Kubernetes Operations Lab** — Kubernetes, containerd, Networking, GitOps
+- **AWS Infrastructure as Code** — Terraform, AWS, Ansible
+- **Linux Enterprise Infrastructure Lab** — Samba AD, LDAP, Kerberos, SNMPv3
+- **DevSecOps Automation** — SAST, DAST, SCA, Trivy, Semgrep
 
 
 ## Connect
