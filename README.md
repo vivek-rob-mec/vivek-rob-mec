@@ -19,7 +19,7 @@ Linux, CI/CD, GitOps, observability, networking, and infrastructure automation.*
 **Web & Networking:** Nginx, DNS, TLS/SSL, TCP/IP, Load Balancing  
 **Systems & Automation:** Linux, Ubuntu, systemd, Bash, Python
 
-## Engineering Experience
+## Selected Engineering Work
 
 ### CI/CD & Deployment Automation
 
