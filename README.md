@@ -40,9 +40,9 @@ Linux, CI/CD, GitOps, observability, networking, and infrastructure automation.*
 ### Kubernetes & Containers
 
 * Deployed and operated containerized workloads using Kubernetes.
-* Worked with services, networking, ingress/egress, probes, storage, and container runtimes.
+* Configured services, networking, ingress/egress, probes, storage, and container runtimes.
 * Troubleshot Kubernetes workloads, networking, and application connectivity.
-* Implemented and explored GitOps workflows using Argo CD.
+* Implemented GitOps workflows using Argo CD.
 
 ### Linux & Infrastructure Services
 
@@ -60,25 +60,25 @@ Built and configured infrastructure environments involving:
 
 ### Virtualization
 
-* Worked with KVM/QEMU, VirtualBox, VMware ESXi, and nested virtualization.
-* Built nested ESXi lab environments on Linux.
+* Built and operated lab environments using KVM/QEMU, VirtualBox, VMware ESXi, and nested virtualization.
+* Built nested ESXi environments on Linux.
 * Converted and managed VDI, VMDK, and RAW virtual disk formats.
 * Troubleshot VM networking, storage, DNS, and connectivity.
 
 ### DevSecOps & Infrastructure Security
 
-* Integrated SAST, DAST, SCA, and container security concepts into DevOps workflows.
+* Applied SAST, DAST, SCA, and container security practices within DevOps workflows.
 * Worked with SonarQube, Semgrep, and Trivy.
 * Hardened Nginx deployments and TLS configurations.
 * Built isolated security testing environments for applications, APIs, and infrastructure.
 
 ## Featured Projects
 
-- **DevOps CI/CD Platform** — Jenkins, Docker, AWS, Terraform, Ansible
+- **CI/CD Automation Platform** — Jenkins, Docker, AWS, Terraform, Ansible
 - **Kubernetes Operations Lab** — Kubernetes, containerd, Networking, GitOps
-- **AWS Infrastructure as Code** — Terraform, AWS, Ansible
-- **Linux Enterprise Infrastructure Lab** — Samba AD, LDAP, Kerberos, SNMPv3
-- **DevSecOps Automation** — SAST, DAST, SCA, Trivy, Semgrep
+- **AWS Infrastructure with Terraform** — Terraform, AWS, Ansible
+- **Linux Enterprise Services Lab** — Samba AD, LDAP, Kerberos, SNMPv3
+- **DevSecOps Automation Lab** — SAST, DAST, SCA, Trivy, Semgrep
 
 
 ## Connect
