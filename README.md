@@ -83,6 +83,6 @@ Built and configured infrastructure environments involving:
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/vivek-saroj-152b4719a/)
+[LinkedIn](https://www.linkedin.com/in/vivek-saroj-devops/)
 
 **Email:** [viveksaroj098@gmail.com](mailto:viveksaroj098@gmail.com)
