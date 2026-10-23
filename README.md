@@ -2,11 +2,25 @@
 
 **DevOps Engineer | Cloud Infrastructure | Kubernetes | Platform Automation**
 
+<p>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img alt="Argo_CD" src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+</p>
+
 DevOps Engineer focused on building, automating, and operating reliable cloud,
 containerized, and Linux infrastructure.
 
 Hands-on experience with **AWS, Kubernetes, Terraform, Ansible, Jenkins, Docker,
 Linux, CI/CD, GitOps, observability, networking, and infrastructure automation.**
+
+**Explore:** [Core Technologies](#core-technologies) · [Selected Engineering Work](#selected-engineering-work) · [Featured Projects](#featured-projects) · [Connect](#connect)
+
+---
 
 ## Core Technologies
 
@@ -18,6 +32,8 @@ Linux, CI/CD, GitOps, observability, networking, and infrastructure automation.*
 **DevSecOps:** SonarQube, Semgrep, Trivy, SAST, DAST, SCA  
 **Web & Networking:** Nginx, DNS, TLS/SSL, TCP/IP, Load Balancing  
 **Systems & Automation:** Linux, Ubuntu, systemd, Bash, Python
+
+---
 
 ## Selected Engineering Work
 
@@ -72,6 +88,8 @@ Built and configured infrastructure environments involving:
 * Hardened Nginx deployments and TLS configurations.
 * Built isolated security testing environments for applications, APIs, and infrastructure.
 
+---
+
 ## Featured Projects
 
 - **CI/CD Automation Platform** — Jenkins, Docker, AWS, Terraform, Ansible
@@ -81,8 +99,15 @@ Built and configured infrastructure environments involving:
 - **DevSecOps Automation Lab** — SAST, DAST, SCA, Trivy, Semgrep
 
 
+---
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/vivek-saroj-devops/)
 
 **Email:** [viveksaroj098@gmail.com](mailto:viveksaroj098@gmail.com)
+
+<p>
+  <a href="https://www.linkedin.com/in/vivek-saroj-devops/"><img alt="LinkedIn" src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:viveksaroj098@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Send_an_Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
